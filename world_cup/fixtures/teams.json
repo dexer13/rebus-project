@@ -1,0 +1,35 @@
+[
+  {
+    "model": "world_cup.team",
+    "pk": 1,
+    "fields": {
+      "name": "Inglaterra",
+      "flag_image": "https://commons.wikimedia.org/wiki/File:Flag_of_England.svg",
+      "shield_image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcS1n9iy05V4aA-gDdsnWfDMdbgbDwOySH7WDT8Oat2vJGKTU-Us&psig=AOvVaw3dOEdIBYsDFwoLWSULq6cz&ust=1653873975973000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNC62ujGg_gCFQAAAAAdAAAAABAD",
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.team",
+    "pk": 2,
+    "fields": {
+      "name": "Argentina",
+      "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png",
+      "shield_image": "https://logodownload.org/wp-content/uploads/2016/11/afa-seleccion-argentina-futbol-logo-0.png",
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.team",
+    "pk": 3,
+    "fields": {
+      "name": "Brasil",
+      "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/200px-Flag_of_Brazil.svg.png",
+      "shield_image": "https://www.ecured.cu/images/thumb/0/00/Escudo_brasil_futbol.png/260px-Escudo_brasil_futbol.png",
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  }
+]

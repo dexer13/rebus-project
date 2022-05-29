@@ -16,7 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from api.api.v1.urls import urlpatterns as urlpatterns_app
+from world_cup.api.v1.urls import urlpatterns as urlpatterns_app
 
 urlpatterns = [
     path('admin/', admin.site.urls)

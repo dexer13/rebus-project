@@ -1,0 +1,146 @@
+[
+  {
+    "model": "world_cup.player",
+    "pk": 1,
+    "fields": {
+      "name": "Harry",
+      "lastname": "Kane",
+      "birth_date": "1993-07-28",
+      "team": 1,
+      "photo": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTvmxbLWvk-bCARNJ6vesQSrSbXThE2d33eawXYUnaiJi47Oi6fYZekPsIuD3a6C7sg",
+      "position": "Forward",
+      "player_number": 10,
+      "is_first_team": true,
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.player",
+    "pk": 2,
+    "fields": {
+      "name": "Phil",
+      "lastname": "Foden",
+      "birth_date": "2000-05-28",
+      "team": 1,
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/406635-1594986905.jpg?lm=1",
+      "position": "Midfielder",
+      "player_number": 47,
+      "is_first_team": false,
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.player",
+    "pk": 3,
+    "fields": {
+      "name": "Harry",
+      "lastname": "Maguire",
+      "birth_date": "1993-03-05",
+      "team": 1,
+      "photo": "https://img.a.transfermarkt.technology/portrait/header/177907-1520608280.jpg?lm=1",
+      "position": "Defender",
+      "player_number": 5,
+      "is_first_team": true,
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.player",
+    "pk": 4,
+    "fields": {
+      "name": "Lionel",
+      "lastname": "Messi",
+      "birth_date": "1987-06-24",
+      "team": 2,
+      "photo": "https://img.a.transfermarkt.technology/portrait/header/28003-1631171950.jpg?lm=1",
+      "position": "Forward",
+      "player_number": 10,
+      "is_first_team": true,
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.player",
+    "pk": 5,
+    "fields": {
+      "name": "Rodrigo",
+      "lastname": "de Paul",
+      "birth_date": "1994-05-24",
+      "team": 2,
+      "photo": "https://img.a.transfermarkt.technology/portrait/header/255901-1623838716.jpg?lm=1",
+      "position": "Forward",
+      "player_number": 5,
+      "is_first_team": false,
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.player",
+    "pk": 6,
+    "fields": {
+      "name": "Gerónimo",
+      "lastname": "Rulli",
+      "birth_date": "1992-05-20",
+      "team": 2,
+      "photo": "https://img.a.transfermarkt.technology/portrait/header/229604-1447314339.jpg?lm=1",
+      "position": "Goalkeeper",
+      "player_number": 13,
+      "is_first_team": true,
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.player",
+    "pk": 7,
+    "fields": {
+      "name": "Junior",
+      "lastname": "Vinicius",
+      "birth_date": "2000-07-12",
+      "team": 3,
+      "photo": "https://img.a.transfermarkt.technology/portrait/header/371998-1653042643.jpg?lm=1",
+      "position": "Forward",
+      "player_number": 20,
+      "is_first_team": true,
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.player",
+    "pk": 8,
+    "fields": {
+      "name": "Carlos",
+      "lastname": "Casimiro",
+      "birth_date": "1992-02-23",
+      "team": 3,
+      "photo": "https://img.a.transfermarkt.technology/portrait/header/371998-1653042643.jpg?lm=1",
+      "position": "Midfielder",
+      "player_number": 14,
+      "is_first_team": true,
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  },
+  {
+    "model": "world_cup.player",
+    "pk": 9,
+    "fields": {
+      "name": "Marcos",
+      "lastname": "Corrêa",
+      "birth_date": "1994-05-14",
+      "team": 3,
+      "photo": "https://img.a.transfermarkt.technology/portrait/header/181767-1639581124.jpg?lm=1",
+      "position": "Midfielder",
+      "player_number": 4,
+      "is_first_team": false,
+      "created_at": "2022-05-28",
+      "updated_at": "2022-05-28"
+    }
+  }
+]
