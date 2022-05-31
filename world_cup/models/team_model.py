@@ -1,4 +1,5 @@
 from django.db import models
+from django.db.models import Count, Avg
 
 from .base_model import BaseModel
 
