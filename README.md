@@ -134,7 +134,7 @@ docker-compose exec web python manage.py test
 ```
 ***
 ### Servicios
-Go to [http://localhost:8000/](http://localhost:8000/docs) to see all services
+Go to [http://localhost:8000/api/v1/docs](http://localhost:8000/api/v1/docs) to see all services
 ***
 ### Autor
 The project was developed by:
